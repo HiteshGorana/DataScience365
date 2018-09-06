@@ -1,6 +1,7 @@
 
 [wiki ](https://en.wikipedia.org/wiki/Anscombe%27s_quartet)
-![](https://en.wikipedia.org/wiki/Anscombe%27s_quartet#/media/File:Anscombe%27s_quartet_3.svg)
+
+![a](https://en.wikipedia.org/wiki/Anscombe%27s_quartet#/media/File:Anscombe%27s_quartet_3.svg)
 
 **Anscombe's quartet** comprises four dataset that have nearly identical simple descriptive statistics, yet appear very different when graphed
 
