@@ -1,5 +1,4 @@
-# `DATASCIENCE365` ![365](https://img.shields.io/discourse/https/meta.discourse.org/topics.svg)
-
+# `DATASCIENCE365`
 ![](https://github.com/HiteshGorana/DataScience365/blob/master/Awesom-Data-Science4.png)
 
 ### MAIN GOAL
