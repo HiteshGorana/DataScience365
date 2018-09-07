@@ -1,4 +1,4 @@
-# `DATA SCIENCE in 365 Days`
+# `DATASCIENCE365`
 
 ![](https://github.com/HiteshGorana/DataScience365/blob/master/Awesom-Data-Science4.png)
 
