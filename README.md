@@ -1,4 +1,4 @@
-# `DATASCIENCE365`[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/HiteshGorana/DataScience365)
+# DATASCIENCE365 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/HiteshGorana/DataScience365)
 
 ![](https://github.com/HiteshGorana/DataScience365/blob/master/Awesom-Data-Science4.png)
 
