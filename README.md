@@ -1,6 +1,8 @@
-<h1 align="center" style="font-weight: bold;">DataScience365</h1>
 <p align="center">
-  <img src="https://github.com/HiteshGorana/DataScience365/blob/master/Awesom-Data-Science4.png" />
+  <img src=" DataScience365/Logo/Awesom-Data-Science-Text.png " />
+</p>
+<p align="center">
+  <img src=" DataScience365/Logo/Awesom-Data-Science-with-shadow.png " />
 </p>
 
 # `MAIN GOAL`
