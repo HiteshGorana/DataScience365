@@ -1,8 +1,8 @@
 <p align="center">
-  <img src=" DataScience365/Logo/Awesom-Data-Science-Text.png " />
+  <img src="Logo/Awesom-Data-Science-Text.png " />
 </p>
 <p align="center">
-  <img src=" DataScience365/Logo/Awesom-Data-Science-with-shadow.png " />
+  <img src="Logo/Awesom-Data-Science-with-shadow.png " />
 </p>
 
 # `MAIN GOAL`
