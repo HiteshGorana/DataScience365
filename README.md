@@ -11,6 +11,6 @@
 # `INDEX`
 | Number | Description |
 |---|-------------|
-| 08   | [predecting the outcome of diabetes](https://github.com/HiteshGorana/DataScience365/blob/master/08%20Date%20-7-9-2018/prediction.ipynb) |
+| 08   | [predecting the outcome of diabetes on the basis of different featurs ](https://github.com/HiteshGorana/DataScience365/blob/master/08%20Date%20-7-9-2018/prediction.ipynb) |
 
 
