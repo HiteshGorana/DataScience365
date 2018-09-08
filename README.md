@@ -1,7 +1,8 @@
 <p align="center">
   <img src="Logo/Awesom-Data-Science-Text.png " />
 </p>
-<p align="center" max-width="500px">
+<br>
+<p align="center" width="500px">
   <img src="Logo/Awesom-Data-Science-shadow.png " />
 </p>
 
