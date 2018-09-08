@@ -3,12 +3,12 @@
   <img src="https://github.com/HiteshGorana/DataScience365/blob/master/Awesom-Data-Science4.png" />
 </p>
 
-### MAIN GOAL
+# `MAIN GOAL`
 
 1. It is about exploring the world of data science and its concept.
 2. The idea is to analyze 365 datasets in 365 days and bring the learning community together.
 
-
+---------------------------------------------------------------------------------------------
 # `INDEX`
 | Number | Description |
 |---|-------------|
