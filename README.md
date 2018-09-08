@@ -10,7 +10,7 @@
 # `MAIN GOAL`
 
 1. It is about exploring the world of data science and its concept.
-2. The idea is to analyze 365 datasets in 365 days and bring the learning community together.
+2. The idea is to analyze datasets for 365 days and bring the learning community together.
 
 ---------------------------------------------------------------------------------------------
 # `INDEX`
