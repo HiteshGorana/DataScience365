@@ -3,7 +3,7 @@
 </p>
 <br>
 <p align="center">
-  <img width="400px" src="Logo/Awesom-Data-Science-shadow.png " />
+  <img width="600px" src="Logo/Awesom-Data-Science-shadow.png " />
 </p>
 
 # `MAIN GOAL`
