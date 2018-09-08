@@ -2,8 +2,8 @@
   <img src="Logo/Awesom-Data-Science-Text.png " />
 </p>
 <br>
-<p align="center" style="width:400px">
-  <img src="Logo/Awesom-Data-Science-shadow.png " />
+<p align="center">
+  <img width="400px" src="Logo/Awesom-Data-Science-shadow.png " />
 </p>
 
 # `MAIN GOAL`
