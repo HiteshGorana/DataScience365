@@ -5,7 +5,7 @@
 <p align="center">
   <img width="600px" src="Logo/Awesom-Data-Science-shadow.png " />
 </p>
-
+<br>
 # `MAIN GOAL`
 
 1. It is about exploring the world of data science and its concept.
