@@ -1,6 +1,7 @@
-# `DATASCIENCE365` 
-
-![](https://github.com/HiteshGorana/DataScience365/blob/master/Awesom-Data-Science4.png)
+<h1 align="center">DATASCIENCE365</h1>
+<p align="center">
+  <img src="https://github.com/HiteshGorana/DataScience365/blob/master/Awesom-Data-Science4.png" />
+</p>
 
 ### MAIN GOAL
 
