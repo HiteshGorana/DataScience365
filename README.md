@@ -2,7 +2,7 @@
   <img src="Logo/Awesom-Data-Science-Text.png " />
 </p>
 <br>
-<p align="center" width="500px">
+<p align="center" style="width:400px">
   <img src="Logo/Awesom-Data-Science-shadow.png " />
 </p>
 
