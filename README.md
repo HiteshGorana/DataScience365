@@ -2,7 +2,7 @@
   <img src="Logo/Awesom-Data-Science-Text.png " />
 </p>
 <p align="center" max-width="500px">
-  <img src="Logo/Awesom-Data-Science-with-shadow.png " />
+  <img src="Logo/Awesom-Data-Science-shadow.png " />
 </p>
 
 # `MAIN GOAL`
