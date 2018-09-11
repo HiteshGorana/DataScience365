@@ -23,8 +23,8 @@
 |`5`|[Bike Sharing Demand Prediction Using Regression Trees](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/05%20Date%20-4-9-2018/Implementing%20random%20forest%20.ipynb)|
 |`6`|[Kaggle user Analyse](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/06%20Date%20-5-9-2018/Kaggle%20user%20info.ipynb)|
 |`7`|[anime and move genre Analyse](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/07%20Date%20-6-9-2018/Finding%20top%20genre%20which%20lead%20to%20good%20movies%20or%20anime.ipynb)|
-| `08`   | [Predict the onset of diabetes based on diagnostic measures](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/08%20Date%20-7-9-2018/prediction.ipynb) |
-|`09`|[EDA of marijuana (cannabis) Drug](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/09%20Date%20-8-9-2018/EDA%20Cannabis.ipynb)|
+| `8`   | [Predict the onset of diabetes based on diagnostic measures](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/08%20Date%20-7-9-2018/prediction.ipynb) |
+|`9`|[EDA of marijuana (cannabis) Drug](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/09%20Date%20-8-9-2018/EDA%20Cannabis.ipynb)|
 |`10`|[Boxplot](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/10%20Date%20-9-9-2018/BOXPLOT.ipynb)|
 |`11`|[Scatter Plot](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/11%20Date%20-10-9-2018/Scatter%20Plot.ipynb)|
 
