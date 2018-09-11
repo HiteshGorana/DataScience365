@@ -27,5 +27,5 @@
 |`9`|[EDA of marijuana (cannabis) Drug](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/Day%209/EDA%20Cannabis.ipynb)|
 |`10`|[Boxplot](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/Day-10/BOXPLOT.ipynb)|
 |`11`|[Scatter Plot](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/Day-11/Scatter%20Plot.ipynb)|
-|`12`|[probability (Uniform and Normal) distribution](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/Day-12/Probability%20Distributions.ipynb)|
+|`12`|[Probability (Uniform and Normal) Distribution](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/Day-12/Probability%20Distributions.ipynb)|
 
