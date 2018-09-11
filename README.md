@@ -14,7 +14,7 @@
 
 ---------------------------------------------------------------------------------------------
 # `INDEX`
-| Number | Description |
+| Day | Description |
 |---|-------------|
 |`1`|[Anscombe's quartet](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/01%20Date-31-8-2018/01%20Date%20%5B31-8-2018%5D%20Notebook.ipynb)|
 |`2`|[Titanic dataset](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/02%20Date%20-1-9-2018/Titanic.ipynb)|
