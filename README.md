@@ -16,7 +16,7 @@
 # `INDEX`
 | Day | Description |
 |---|-------------|
-|`1`|[Anscombe's quartet](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/01%20Date-31-8-2018/01%20Date%20%5B31-8-2018%5D%20Notebook.ipynb)|
+|`1`|[Anscombe's quartet](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/Day%1/01%20Date%20%5B31-8-2018%5D%20Notebook.ipynb)|
 |`2`|[Titanic dataset](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/02%20Date%20-1-9-2018/Titanic.ipynb)|
 |`3`|[Wine Basic Analyse](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/03%20Date%20-2-9-2018/wine%20quality.ipynb)|
 |`4`|[Bike Sharing basic Analyse](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/04%20Date%20-3-9-2018/hour.ipynb)|
