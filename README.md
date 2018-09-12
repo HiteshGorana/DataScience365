@@ -28,4 +28,5 @@
 |`10`|[Boxplot](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/Day-10/BOXPLOT.ipynb)|
 |`11`|[Scatter Plot](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/Day-11/Scatter%20Plot.ipynb)|
 |`12`|[Probability (Uniform and Normal) Distribution Part-1](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/Day-12/Probability%20Distributions.ipynb)|
+|`13`|[Probability (Bernoulli and Binomial Distribution) Distribution Part-2](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/Day-13/Probability%20Distributions%20part-2.ipynb)|
 
