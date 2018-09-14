@@ -30,4 +30,5 @@
 |`12`|[Probability (Uniform and Normal) Distribution Part-1](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/Day-12/Probability%20Distributions.ipynb)|
 |`13`|[Probability (Bernoulli and Binomial Distribution) Distribution Part-2](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/Day-13/Probability%20Distributions%20part-2.ipynb)|
 |`14`|[Probability (Poisson and Beta Distribution) Distribution Part-3](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/Day-14/Probability%20Distributions%20part-3.ipynb)|
+|`15`|[Probability (Gamma,Log Normal and Negative Binomial Distribution) Distribution Part-4](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/Day-15/Probability%20Distributions%20part-4.ipynb)|
 
