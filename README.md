@@ -33,4 +33,3 @@
 |`14`|[Probability (Poisson and Beta Distribution) Distribution Part-3](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/Day-14/Probability%20Distributions%20part-3.ipynb)|
 |`15`|[Probability (Gamma,Log Normal and Negative Binomial Distribution) Distribution Part-4](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/Day-15/Probability%20Distributions%20part-4.ipynb)|
 |`16`|[Time Series Analysis basic](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/Day-16/Time%20Series%20Analysis%20part-1.ipynb)|
-|`17`|[DEMO]()|
