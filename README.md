@@ -17,9 +17,13 @@
 | Day | Description |
 |---|-------------|
 |`1`|[Anscombe's quartet](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/Day%201/01%20Date%20%5B31-8-2018%5D%20Notebook.ipynb)|
+
 |`2`|[Titanic dataset](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/Day%202/Titanic.ipynb)|
+
 |`3`|[Wine Basic Analyse](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/Day%203/wine%20quality.ipynb)|
+
 |`4`|[Bike Sharing basic Analyse](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/Day%204/hour.ipynb)|
+
 |`5`|[Bike Sharing Demand Prediction Using Regression Trees](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/Day%205/Implementing%20random%20forest%20.ipynb)|
 |`6`|[Kaggle user Analyse](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/Day%206/Kaggle%20user%20info.ipynb)|
 |`7`|[anime and move genre Analyse](https://github.com/HiteshGorana/DataScience365/tree/master/DataScience365/Day%207)|
