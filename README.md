@@ -34,3 +34,5 @@
 |`15`|[Probability (Gamma,Log Normal and Negative Binomial Distribution) Distribution Part-4](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/Day-15/Probability%20Distributions%20part-4.ipynb)|
 |`16`|[Time Series Analysis P-1](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/Day-16/Time%20Series%20Analysis%20part-1.ipynb)|
 |`17`|[Time Series Analysis P-2](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/Day-17/Time%20Series%20part-2.ipynb)|
+|`18`|[Bayes' Theorem](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/Day-18/Bayes'%20Theorem.ipynb)|
+
