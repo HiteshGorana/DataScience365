@@ -15,7 +15,7 @@
 ---------------------------------------------------------------------------------------------
 # `INDEX`
 
-|`S.No.`| `Description` |
+|S.No.| Description|
 |---|-------------|
 |`1`|[Anscombe's quartet](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/Day%201/01%20Date%20%5B31-8-2018%5D%20Notebook.ipynb)|
 |`2`|[Titanic dataset](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/Day%202/Titanic.ipynb)|
@@ -35,4 +35,4 @@
 |`16`|[Time Series Analysis P-1](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/Day-16/Time%20Series%20Analysis%20part-1.ipynb)|
 |`17`|[Time Series Analysis P-2](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/Day-17/Time%20Series%20part-2.ipynb)|
 |`18`|[Bayes' Theorem](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/Day-18/Bayes'%20Theorem.ipynb)|
-
+|`19`|[Chi-squared test](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/Day-19/Chi_Square.ipynb)|
