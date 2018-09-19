@@ -13,7 +13,7 @@
 2. The idea is to analyze datasets for 365 days and bring the learning community together.
 
 ---------------------------------------------------------------------------------------------
-# `INDEX`
+# `INDEX`![](https://raw.githubusercontent.com/jmhobbs/cultofthepartyparrot.com/master/parrots/parrot.gif)
 
 |S.No.| Description|
 |---|-------------|
