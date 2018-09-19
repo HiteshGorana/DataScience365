@@ -36,3 +36,4 @@
 |`17`|[Time Series Analysis P-2](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/Day-17/Time%20Series%20part-2.ipynb)|
 |`18`|[Bayes' Theorem](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/Day-18/Bayes'%20Theorem.ipynb)|
 |`19`|[Chi-squared test](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/Day-19/Chi_Square.ipynb)|
+|`20`|[natural language processing part-1](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/Day-20/nltk%20p-1.ipynb)|
