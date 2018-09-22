@@ -38,3 +38,4 @@
 |`19`|[Chi-squared test](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/Day-19/Chi_Square.ipynb)|
 |`20`|[natural language processing part-1](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/Day-20/nltk%20p-1.ipynb)|
 |`21`|[House Sales Prediction ](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/Day-21/housesales.ipynb)|
+|`22`|[Statistical Data Modeling](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/Day-22/Statistical%20Data%20Modeling.ipynb)|
