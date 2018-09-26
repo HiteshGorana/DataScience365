@@ -39,3 +39,4 @@
 |`21`|[House Sales Prediction ](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/Day-21/housesales.ipynb)|
 |`22`|[Statistical Data Modeling](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/Day-22/Statistical%20Data%20Modeling.ipynb)|
 |`23`|[K-Means and Hierarchical Clustering](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/Day-23/Clustering%20Algorithms%20.ipynb)|
+|`24`|[Basic Statistics](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/Day-24/Basic%20Statistics.ipynb)|
