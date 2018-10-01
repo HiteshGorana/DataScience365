@@ -9,7 +9,7 @@
 
 # `MAIN GOAL`
 
-1. It is about exploring the world of data science and its concept.
+1. It is about exploring the world of <b>data science and its concept</b>.
 
 ---------------------------------------------------------------------------------------------
 # `INDEX`                                                    ![](https://raw.githubusercontent.com/jmhobbs/cultofthepartyparrot.com/master/parrots/parrot.gif)
