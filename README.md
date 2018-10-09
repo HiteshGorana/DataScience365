@@ -41,3 +41,4 @@
 |`23`|[K-Means and Hierarchical Clustering](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/Day-23/Clustering%20Algorithms%20.ipynb)|
 |`24`|[Basic Statistics](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/Day-24/Basic%20Statistics.ipynb)|
 |`25`|[EDA avocados](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/Day-25/EDA%20AVOCADOS.ipynb)|
+|`26`|[Hierarchical Clustering](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/Day-26/Hierarchical%20Clustering.ipynb)|
