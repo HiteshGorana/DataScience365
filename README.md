@@ -44,3 +44,4 @@
 |`26`|[Hierarchical Clustering](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/Day-26/Hierarchical%20Clustering.ipynb)|
 |`27`|[basic pandas and numpy ](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/Day-27/pandas.ipynb)|
 |`28`|[Visualize a Deep Learning Neural Network Model in Keras](https://bit.ly/2DNwYi8)|
+|`29`|[Pandas Tips and Tricks](https://github.com/kadekillary/an-embarrassment-of-pandas)|
