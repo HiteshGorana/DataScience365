@@ -45,3 +45,5 @@
 |`27`|[basic pandas and numpy ](https://github.com/HiteshGorana/DataScience365/blob/master/DataScience365/Day-27/pandas.ipynb)|
 |`28`|[Visualize a Deep Learning Neural Network Model in Keras](https://bit.ly/2DNwYi8)|
 |`29`|[Pandas Tips and Tricks](https://github.com/kadekillary/an-embarrassment-of-pandas)|
+|`30`|[30 seconds of python](https://github.com/30-seconds/30-seconds-of-python)|
+|`31`|[Dive into Deep Learning](https://d2l.ai/index.html)|
