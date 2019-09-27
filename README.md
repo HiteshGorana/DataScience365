@@ -49,3 +49,4 @@
 |`31`|[Dive into Deep Learning](https://d2l.ai/index.html)|
 |`32`|[PyTorch Tutorial for Deep Learning Researchers](https://github.com/yunjey/pytorch-tutorial)|
 |`33`|[Fastai Course](https://course.fast.ai/)|
+|`34`|[d2l-pytorch](https://github.com/dsgiitr/d2l-pytorch)|
