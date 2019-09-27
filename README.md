@@ -48,3 +48,4 @@
 |`30`|[30 seconds of python](https://github.com/30-seconds/30-seconds-of-python)|
 |`31`|[Dive into Deep Learning](https://d2l.ai/index.html)|
 |`32`|[PyTorch Tutorial for Deep Learning Researchers](https://github.com/yunjey/pytorch-tutorial)|
+|`33`|[Fastai Course](https://course.fast.ai/)|
